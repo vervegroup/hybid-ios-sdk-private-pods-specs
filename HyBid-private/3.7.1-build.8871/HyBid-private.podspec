@@ -17,5 +17,5 @@ Pod::Spec.new do |s|
     'OMSDK_Pubnativenet/OMSDK_Pubnativenet.xcframework'
   ]
 
-  s.dependency 'ATOM-Standalone'
+  s.dependency 'ATOM-Standalone-Private', '3.8.0-beta.109'
 end
